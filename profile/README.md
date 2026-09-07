@@ -8,4 +8,8 @@ We build products, embed with security teams inside large institutions, and cont
 - **Upstream**: contributions merged into the Linux kernel, Stellar, FediMint, Rig, Foundry and x402, each through the maintainers' review. Live state under [@gabrielrondon](https://github.com/gabrielrondon)
 - **Now**: security for AI agents. Threat models for agentic spend, gates in agent tooling, guards for autonomous payments
 
-Open repositories from the factory will land here. Site: [tuturama.com](https://tuturama.com) · [LinkedIn](https://www.linkedin.com/company/tuturama)
+## Repositories
+
+- [**agent-security**](https://github.com/tuturama/agent-security): skills for coding agents that audit and harden other agents. SSRF gate audit with test vectors, threat model for agentic spend, MCP visibility audit, signed audit log with a runnable verifier. MIT.
+
+Site: [tuturama.com](https://tuturama.com) · [LinkedIn](https://www.linkedin.com/company/tuturama)
