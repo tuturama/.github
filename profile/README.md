@@ -11,5 +11,6 @@ We build products, embed with security teams inside large institutions, and cont
 ## Repositories
 
 - [**agent-security**](https://github.com/tuturama/agent-security): skills for coding agents that audit and harden other agents. SSRF gate audit with test vectors, threat model for agentic spend, MCP visibility audit, signed audit log with a runnable verifier. MIT.
+- [**grantsmith**](https://github.com/tuturama/grantsmith): a Claude Code skill that finds non-dilutive funding for a startup, in any country, and helps win it: intake, search, evaluate, execute. Written from applications actually filed. MIT.
 
 Site: [tuturama.com](https://tuturama.com) · [LinkedIn](https://www.linkedin.com/company/tuturama)
